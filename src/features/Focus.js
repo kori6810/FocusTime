@@ -28,9 +28,7 @@ export const Focus = ({ addSubject }) => {
 };
 
 const style = StyleSheet.create({
-  container: {
-    flex: 1,
-  },
+  container: {},
   button: {
     justifyContent: "center",
   },
